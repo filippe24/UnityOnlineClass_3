@@ -15,9 +15,9 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 0
-  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogColor: {r: 0.905938, g: 0.4494482, b: 0.9433962, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.01
+  m_FogDensity: 0
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
@@ -7628,6 +7628,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Directional Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970019428823148450, guid: 0af48d9319580c64798e2acac97c0f4a,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.87699795
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970019428823148450, guid: 0af48d9319580c64798e2acac97c0f4a,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970019428823148450, guid: 0af48d9319580c64798e2acac97c0f4a,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6970019428823148451, guid: 0af48d9319580c64798e2acac97c0f4a,
         type: 3}
